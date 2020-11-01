@@ -59,7 +59,7 @@ header a {
 @media (max-width:960px){
     .links-header{
         position: absolute;
-        height: 28vh;
+        height: 11rem;
         top: 6rem;
         background-color: #2570b7b6;
         display: flex;
